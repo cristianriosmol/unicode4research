@@ -1,7 +1,6 @@
-# unicode4research
 # Símbolos Unicode para decorar Scripts de Bioinformática!
 
-Símbolos Unicode para denotar diferentes secciones de un script, como tipos de procesos o análisis. El objetivo es mejorar la legibilidad y la navegación rápida a través del código.
+Para denotar diferentes secciones de un script. El objetivo es mejorar la legibilidad y la navegación rápida a través del código.
 
 ## 1. Flujo, Configuración y Dependencias
 
