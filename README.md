@@ -64,8 +64,8 @@ Para denotar diferentes secciones de un script. El objetivo es mejorar la legibi
 |    🌟    |   `U+1F31F`   | Regiones con señales fuertes de selección             |
 |    🔥    |   `U+1F525`   | Hotspots de selección, adaptación rápida              |
 |    📈    |   `U+1F4C8`   | Podría indicar selección positiva (contextual)        |
-|   🧑‍🌾   | `U+1F9D1 U+200D U+1F33E` | Análisis relacionados con domesticación            |
-|  🧑‍🤝‍🧑  | `U+1F9D1 U+200D U+1F91D U+200D U+1F9D1` | Estructura poblacional, análisis de poblaciones |
+|    🧑‍🌾    |   `U+1F9D1`   | Análisis relacionados con domesticación            |
+|    🧑‍🤝‍🧑    |   `U+1F9D1`   | Estructura poblacional, análisis de poblaciones |
 |    👥    |   `U+1F465`   | Mezcla (admixture), subpoblaciones                    |
 |    🌳    |   `U+1F333`   | Árboles filogenéticos, dendrogramas, coalescencia     |
 |    🕸️    |   `U+1F578`   | Redes de haplotipos, relaciones complejas             |
@@ -134,7 +134,8 @@ Para denotar diferentes secciones de un script. El objetivo es mejorar la legibi
 |    ❗    |   `U+2757`    | Exclamación importante, error (alternativa a ❌)    |
 |    ❓    |   `U+2753`    | Preguntas pendientes, áreas a investigar (negro)     |
 |    ❔    |   `U+2754`    | Preguntas pendientes, áreas a investigar (blanco)    |
-|   🛠️🚧   |`U+1F6A7 U+1F6A7`| Sección en construcción o incompleta (ejemplo con dos) |
+|    🛠️    |   `U+1F6A7`   | Sección en construcción o incompleta (ejemplo 1)     |
+|    🚧    |   `U+1F6A7`   | Sección en construcción o incompleta (ejemplo 2)     |
 
 ---
 
